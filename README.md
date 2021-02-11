@@ -1,3 +1,15 @@
+#About
+
+This is a party planner Web APP built with React JS to undertstand the basic features of React JS as well as few advanced concept. Althoug this project can be enhanced later on as per your requirments.
+
+##For any custom project releated to the React JS, you can directly contact with me
+
+###Contact me from Monday to Friday
+
+Email = santoshdevnath15@gmail.com
+Mobile = Whatsapp = Telegram = +91 8077775266
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
